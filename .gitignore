@@ -14,3 +14,7 @@ wheels/
 *.sqlite3
 *.db
 
+
+# User-uploaded profile pictures
+media/profile_pics/*
+!media/profile_pics/.gitkeep
